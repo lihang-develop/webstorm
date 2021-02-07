@@ -58,4 +58,5 @@ webstorm配置和续费试用期
 		Rider
 		RubyMine
 		WebStorm
+	0x7. 个人记录使用 转载自https://zhile.io/2020/11/18/jetbrains-eval-reset.html
 
